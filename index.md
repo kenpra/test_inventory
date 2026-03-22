@@ -2,5 +2,5 @@
 
 ## items
 
--三脚
+-[三脚](items/tripod.md)
 -コード
